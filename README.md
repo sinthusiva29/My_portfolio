@@ -24,8 +24,8 @@
 - Played a key role in the successful implementation of Apex pages, enhancing user interfaces and  overall system functionality.
 - Applied technical support to project teams, improving the efficiency of error resolution processes
 
-  **Certifications**
-   - Microsoft Certified: Azure Data Fundamentals (Feb 2024)
-   - 
+**Certifications**
+- Microsoft Certified: Azure Data Fundamentals (Feb 2024)
+     
 
  
